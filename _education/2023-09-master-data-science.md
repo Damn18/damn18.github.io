@@ -1,9 +1,10 @@
 ---
-title: "Master of Data Science"
+title: "[Master of Data Science](https://corsi.unitn.it/en/data-science)"
 school: "University of Trento"
 location: "Trento, Italy"
 start: "September 2023"
 end: "February 2026"
+graduation: "Graduated with honours"
 layout: education
 order: 1
 
@@ -21,4 +22,3 @@ courses:
   - "Geospatial Analysis and Representation for Data Science"
   - "Data Mining"
 ---
-

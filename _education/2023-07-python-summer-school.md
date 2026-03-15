@@ -1,5 +1,5 @@
 ---
-title: "Intensive Python Summer School"
+title: "[Intensive Python Summer School](https://sites.google.com/unitn.it/ds-summerschool2026/)"
 school: "University of Trento"
 location: "Trento, Italy"
 start: "July 2023"

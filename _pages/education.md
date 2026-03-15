@@ -17,6 +17,10 @@ nav_order: 5
 **{{ edu.school }}{% if edu.location %} — {{ edu.location }}{% endif %}**  
 {{ edu.start }} – {{ edu.end }}
 
+{% if edu.graduation %}
+{{ edu.graduation }}
+{% endif %}
+
 {% if edu.description %}
 {{ edu.description }}
 {% endif %}

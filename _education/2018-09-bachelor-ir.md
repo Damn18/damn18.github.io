@@ -1,5 +1,5 @@
 ---
-title: "Bachelor in International Relations"
+title: "[Bachelor in International Relations](https://corsi.unibo.it/1cycle/PoliticalSocialInternationalSciences/course-structure-diagram/piano/2018/8853/952/000/2018)"
 school: "Alma Mater Studiorum, University of Bologna"
 location: "Bologna, Italy"
 order: 3

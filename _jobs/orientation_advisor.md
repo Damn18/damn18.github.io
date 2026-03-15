@@ -1,5 +1,5 @@
 ---
-title: Orientation Advisor
+title: Orientation Coordinator
 organization: "[Orientation Office](https://orienta.unitn.it/), University of Trento - Trento, Italy"
 
 start: 2024-01

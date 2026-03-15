@@ -18,8 +18,7 @@ text: |
 
   **Libraries**
 
-  NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, NetworkX,  
-  PyTorch, TensorFlow, Keras, XGBoost, LightGBM, Hugging Face Transformers, LangChain, LlamaIndex, OpenAI API, vLLM, SentenceTransformers, Bertopic, 
+  NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, NetworkX, PyTorch, TensorFlow, Keras, XGBoost, LightGBM, Hugging Face Transformers, LangChain, LlamaIndex OpenAI API, vLLM, SentenceTransformers, Bertopic
 
  
   **Cloud**
