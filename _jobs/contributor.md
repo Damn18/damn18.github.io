@@ -1,6 +1,6 @@
 ---
 title: Software Developer Contributor
-organization: IT University of Copenhagen - Copenhagen, Denmark"
+organization: "[IT University of Copenhagen](https://nerds.itu.dk/2025/12/11/michael-wins-innoexplorer-grant/) - Copenhagen, Denmark"
 
 start: 2026-01
 end: ongoing
