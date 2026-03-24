@@ -6,7 +6,7 @@ text: |
 
   **Programming**
 
-  Bash, Python, R, SQL, STATA, CSS, Javascript (basic), C++ (basic), C# (basic), 
+  Bash, Python, R, SQL, STATA, CSS, Javascript (basic), C (basic), C# (basic), 
  
   **Developer Tools**
 
