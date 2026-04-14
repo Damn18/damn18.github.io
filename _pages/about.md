@@ -17,6 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-During my bachelor’s, I focused on applying statistical techniques to research and industry contexts, while during my master's I focused on computer engineering, data science, and big data infrastructures. I have gained hands-on experience with software development, machine learning, deep learning, high-performance computing, and big data management.
+During my bachelor’s, I focused on applying statistical techniques to economics, while during my master's I focused on data science, computer engineering, and big data infrastructures. I have gained hands-on experience with machine learning, deep learning, software development, high-performance computing, and big data management.
 
-Currently, I am pursuing opportunities in backend development, and I am actively enhancing my skills in C and C#, with a focus on optimizing cloud and edge computing systems. 
+Currently, I am pursuing opportunities in data engineering with a focus on backend development, and I am actively enhancing my skills in C.

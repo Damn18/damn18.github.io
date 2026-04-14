@@ -10,7 +10,7 @@ text: |
  
   **Developer Tools**
 
-  Git, Github, Gitlab, VSC, Cursor, Dask, Kafka, Docker, Apptainer/Singularity, REST APIs, Linux/Unix environment, HPC environment (Slurm), Openrouter
+  Git, Github, Gitlab, VSC, Cursor, Dask, Kafka, Docker, Apptainer/Singularity, FastAPI, Linux/Unix environment, HPC environment (Slurm), Openrouter
 
   **Databases**
 

@@ -1,6 +1,6 @@
 ---
 title: Big Data Technologies
-order: 1
+order: 2
 description: >
   This project was developed for the Big Data Technologies 2023-2024 course as part
   of the master's program in Data Science at the University of Trento. The focus is
