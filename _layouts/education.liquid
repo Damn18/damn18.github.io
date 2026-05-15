@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article>
+    {% if page.image %}
+      {% assign profile_image_path = page.image | prepend: 'assets/img/' %}
+      <img src="{{ profile_image_path }}" class="img-fluid rounded mb-4" alt="{{ page.title }}">
+    {% endif %}
+
+    <div class="prose max-w-none">
+      {{ content }}
+    </div>
+  </article>
+</div>
